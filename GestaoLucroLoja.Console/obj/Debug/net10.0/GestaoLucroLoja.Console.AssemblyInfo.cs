@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GestaoLucroLoja.Console")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a1ad40c4e80e7f011b744e128dbd874c9e3c3bb")]
 [assembly: System.Reflection.AssemblyProductAttribute("GestaoLucroLoja.Console")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GestaoLucroLoja.Console")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
